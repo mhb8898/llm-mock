@@ -66,10 +66,6 @@ This FastAPI AI chat application is a RESTful API service that enables users to 
 - `POST /interactions/{id}/messages`: Add a message to an interaction.
 - `GET /interactions/{id}/messages`: Fetch all messages within an interaction.
 
-### Example `curl` Requests
-
-(Include a few examples of `curl` requests to interact with the API.)
-
 ## Testing
 
 Run the tests with:
@@ -77,15 +73,3 @@ Run the tests with:
 ```bash
 pytest
 ```
-
-## Contributing
-
-(Provide guidelines on how others can contribute to the project.)
-
-## License
-
-(Include information about the project's license.)
-
----
-
-Remember to replace `[repository_url]` with the actual URL of your Git repository and provide specific details or additional sections as needed for your project. This template offers a comprehensive starting point for documenting your FastAPI AI chat application.
