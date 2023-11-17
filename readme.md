@@ -24,7 +24,7 @@ This FastAPI AI chat application is a RESTful API service that enables users to 
 
 1. Clone the repository:
    ```bash
-   git clone [repository_url]
+   git clone https://github.com/mhb8898/llm-mock.git
    ```
 
 2. Navigate to the project directory:
