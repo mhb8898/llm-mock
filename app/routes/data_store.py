@@ -8,6 +8,7 @@ class InteractionDataStore:
             cls._instance.interactions = {}
         return cls._instance
 
+
 # This function provides a global access point to the instance
 def get_data_store():
     return InteractionDataStore()
